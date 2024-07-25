@@ -1,0 +1,247 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.absolute-footer{
+	display:none
+}
+.InfoCell__clickableCell___2rtY5 {
+    cursor: pointer;
+}
+.InfoCell__cellTitle___1xHcW {
+    color: #979ba7;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-right: 12px;
+    padding: 0;
+}
+.InfoCell__cell___199sS {
+    align-items: flex-start;
+    background-color: #fff;
+    display: flex;
+    padding: 12px;
+}
+.InfoCell__cellContentWrap___2yfZW {
+    color: #26282a;
+    flex: 1;
+    font-size: 16px;
+    line-height: 22px;
+}
+.PromotionInfo__promotionContent___f_e9L {
+    display: flex;
+    flex-wrap: wrap;
+}
+.PromotionInfo__saleTag___341gb {
+    order: -2;
+}
+.PromotionInfo__promotionTag___1FcWF {
+    align-items: center;
+    color: #f26591;
+    display: flex;
+    font-size: 14px;
+    height: 18px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-right: 12px;
+    margin-top: 3px;
+}
+.PromotionInfo__saleTag___341gb .PromotionInfo__tagType___19zDa {
+    background: #f26591;
+    color: #fff;
+}
+.PromotionInfo__tagType___19zDa {
+    background: #fff;
+    border: 1px solid #f26591;
+    border-radius: 4px;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 24px;
+    line-height: 22px;
+    padding-left: 4px;
+    padding-right: 4px;
+    z-index: 1;
+}
+.PromotionInfo__tagTitle___1-fEB {
+    background: #fef6f9;
+    border-radius: 0 4px 4px 0;
+    color: #f26591;
+    height: 24px;
+    left: 5px;
+    line-height: 24px;
+    overflow: hidden;
+    padding: 0 4px 0 8px;
+    position: relative;
+}
+.PromotionInfo__tagType___19zDa {
+    background: #fff;
+    border: 1px solid #f26591;
+    border-radius: 4px;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 24px;
+    line-height: 22px;
+    padding-left: 4px;
+    padding-right: 4px;
+    z-index: 1;
+}
+.PromotionInfo__promotionTag___1FcWF {
+    align-items: center;
+    color: #f26591;
+    display: flex;
+    font-size: 14px;
+    height: 18px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-right: 12px;
+    margin-top: 3px;
+}
+.PromotionInfo__tagType___19zDa {
+    background: #fff;
+    border: 1px solid #f26591;
+    border-radius: 4px;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 24px;
+    line-height: 22px;
+    padding-left: 4px;
+    padding-right: 4px;
+    z-index: 1;
+}
+.PromotionInfo__tagTitle___1-fEB {
+    background: #fef6f9;
+    border-radius: 0 4px 4px 0;
+    color: #f26591;
+    height: 24px;
+    left: -4px;
+    line-height: 24px;
+    overflow: hidden;
+    padding: 0 4px 0 8px;
+    position: relative;
+}
+.PromotionInfo__saleTag___341gb .PromotionInfo__tagType___19zDa {
+    background: #f26591;
+    color: #fff;
+    margin-bottom: 0;
+}
+.PromotionInfo__tagType___19zDa{
+	margin-bottom:0
+}
+.product-main .row{
+	background:#fff;
+	padding:15px 0;
+	 border-radius: 10px;
+}
+.CreditCardAD__contentWrapper___1sQ7f .CreditCardAD__ccard___3PjaE span{
+	font-size:13px;
+	    padding-left: 5px;
+}
+.container-width, .full-width .ubermenu-nav, .container, .row {
+    max-width: 1280px;
+}
+.sp .woocommerce-loop-product__title a {
+	text-overflow: ellipsis;
+overflow: hidden;
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 2;
+}
+.aaa{
+	padding-left: 75px;
+	padding-bottom:15px
+}
+.PromiseInfo__promiseInfoCell___hMM1v {
+    border-radius: 8px;
+    display: inline-flex;
+    margin-left: 12px;
+}
+.single_add_to_cart_button{
+    border-radius: 50px;
+	display:block
+}
+.PromiseInfo__cellTitle___1p8Wq {
+    flex: 0 0 auto;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 4px;
+    margin-right: 10px;
+}
+.PromiseInfo__cellContent___1BtY7 {
+    flex: 1 1 auto;
+    font-size: 14px;
+}
+.RushbuyItem__barContainer___IpMRm{
+	display:none
+}
+div.xem .RushbuyItem__barContainer___IpMRm{
+	display:block
+}
+button.submit-button.icon {
+    margin-left: 0.12em;
+    margin-right: 0.12em;
+    min-width: 8.5em!important;
+}
+.searchform-wrapper {
+    width: 100%;
+    border: 2px solid #660099;
+}
+.header-bottom {
+    background:#fff!important;
+    border-bottom: 2px solid #660099!important;
+}
+.widget .is-divider{
+	display:none
+}
+.header-vertical-menu__fly-out .nav-vertical-fly-out>li.menu-item>a {
+    padding: 7px 15px!important;
+}
+.nav-vertical>li+li, .nav-vertical-fly-out>li+li {
+    border-top: 1px solid #660099;
+}
+.pr span.amount {
+    white-space: nowrap;
+    color: #9a1fb1;
+    font-weight: bold;
+    font-size: 18px;
+}
+.woocommerce-loop-product__title a{
+	color:#333!important
+}
+.section-title-normal {
+    border-bottom: 1px solid #ececec;
+}
+.section-title-normal span {
+	border-bottom:0!important
+}
+h2.section-title-normal{
+	font-size:18px;
+	font-weight:500
+}
+.section-title-main{
+	color:#111!important;
+	font-weight:600!important
+}
+#wrapper, #main {
+    background-color: #f5f8fa;
+    position: relative;
+}
+.tax-product_cat #main {
+	background-color: #fff;}
+div.nopa {
+	background: #fff;
+    border-radius: 10px;
+    padding: 15px 0 !important;
+	margin-bottom: 15px;
+}
+.col, .gallery-item, .columns {
+    position: relative;
+    margin: 0;
+    padding: 0 15px 0px!important;
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6, .heading-font, .banner h1, .banner h2 {
+    font-weight: 500!important;
+}
